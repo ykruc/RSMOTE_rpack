@@ -7,4 +7,5 @@ This method remove the noise from minority samples, and divides the rest minorit
 This r package allows users to generate synthetic samples from imbalanced data with two categories.
 
 Reference:
+
 CHEN, Baiyun, et al. RSMOTE: A self-adaptive robust SMOTE for imbalanced problems with label noise. Information Sciences, 2020.
